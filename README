@@ -1,0 +1,30 @@
+================================================================================
+PyUSPS_WebTools
+
+README
+================================================================================
+
+This library is designed to provide a simple, elegant interface to the web tools
+API provided by the United States Postal Service (USPS). After developing an
+interface for a client of mine, I decided to expand upon that interface and make
+a more generic, open-source version of the library. I didn't realize at the time
+that a Perl-based implementation had already been written (not much Perl
+development being done here), however I had not come across a Python
+implementation as of yet, so here we go. :)
+
+Initially, the library will provide access to the address info, delivery
+confirmation, and tracking confirmation services. When and if others are needed,
+I will add them into the library as well. For now, however, the library is to
+be considered in flux until stated otherwise on the project Wiki.
+
+Development Environment:
+    *   Python 2.6.4
+    *   Ubuntu Linux / Windows XP (depends what machine I happen to be at)
+    *   git version control system
+    *   Komodo Edit 5.2
+
+Contributions to this project are welcome and will be reviewed before added to
+the codebase.
+
+---
+WC
